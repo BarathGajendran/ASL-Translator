@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+Frontend/node_modules/
+.npm
+.eslintcache
+
+# Vite build outputs
+dist/
+Frontend/dist/
+.vite/
+Frontend/.vite/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases and OS files
+*.db
+.DS_Store
+Thumbs.db
